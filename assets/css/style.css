@@ -21,6 +21,12 @@ body {
 }
 
 .connect{
+  padding-right:200px;
+  padding:20px;
+  width:600px;
+  margin-left:20px;
+  
+
 
   /*changes the images, I liked it how it was*/
   /*The connect container throw in some styles for it*/
@@ -41,7 +47,7 @@ body {
 }
 
 .navbar .navbar-brand {
-  
+  padding-top:25px;
   color:white;
   background:#4aaaa5;
   font-size: 40px;
@@ -75,7 +81,7 @@ footer p {
 
 
 section{
-margin:20 20 20 20px;
+margin:0 auto;
 padding:100px;
 }
 .container{
@@ -89,8 +95,8 @@ color:#4aaaa5;
 }
 
 form{
-  width:450px;
-  height:300;
+  width:500px;
+  height:500;
   padding:30px;
   border-color:#4aaaa5;
   border-style:outset;
@@ -98,6 +104,8 @@ form{
 
 }
 ul{
+  width:;
+  height:;
   background-color: #4aaaa5;
   padding:20px;
   
