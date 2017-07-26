@@ -42,7 +42,7 @@ body {
   max-width:100%;
   padding:30px;
   background:#4aaaa5;
-  color:brown;
+  
 
 }
 
@@ -56,6 +56,7 @@ body {
 
 .navbar a {
 
+color:#666;
 
  background-color:#4aaaa5;
  padding-right: 50%;
@@ -95,18 +96,25 @@ color:#4aaaa5;
 }
 
 form{
-  width:500px;
-  height:500;
-  padding:30px;
+  width:800px;
+  height:400px;
+  padding:20px;
   border-color:#4aaaa5;
   border-style:outset;
   border-width:10px;
+  
 
 }
 ul{
-  width:;
-  height:;
+  width:px;
+  height:px;
   background-color: #4aaaa5;
   padding:20px;
   
+}
+
+#message{
+  padding:50px;
+  width:400px;
+  height:200px;
 }
