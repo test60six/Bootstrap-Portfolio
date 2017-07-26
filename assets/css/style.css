@@ -36,7 +36,7 @@ body {
   max-width:100%;
   padding:30px;
   background:#4aaaa5;
-  color:white;
+  color:brown;
 
 }
 
@@ -49,10 +49,13 @@ body {
 }
 
 .navbar a {
+
+
  background-color:#4aaaa5;
  padding-right: 50%;
   
 }
+
 
 /*Footer Styles*/
 #footer{
@@ -93,4 +96,9 @@ form{
   border-style:outset;
   border-width:10px;
 
+}
+ul{
+  background-color: #4aaaa5;
+  padding:20px;
+  
 }
