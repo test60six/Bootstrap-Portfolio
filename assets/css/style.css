@@ -1,0 +1,96 @@
+body {
+  max-width: 100%;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  color: #777;
+  background: url("../images/concrete_seamless.png");
+}
+
+/*Main section styles (center contenr)*/
+.main-content .social {
+  width: 15%;
+  height: 15%;
+}
+
+.about {
+  border-color:#4aaaa5;
+  border-style:outset;
+  border-width:10px;
+
+  /*The about container, throw in some styles for it*/
+}
+
+.connect{
+
+  /*changes the images, I liked it how it was*/
+  /*The connect container throw in some styles for it*/
+}
+
+.me-img {
+  float: left;
+  margin: 10px;
+}
+
+/*Nav bar Styles*/
+.navbar {
+  max-width:100%;
+  padding:30px;
+  background:#4aaaa5;
+  color:white;
+
+}
+
+.navbar .navbar-brand {
+  
+  color:white;
+  background:#4aaaa5;
+  font-size: 40px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.navbar a {
+ background-color:#4aaaa5;
+ padding-right: 50%;
+  
+}
+
+/*Footer Styles*/
+#footer{
+  margin-top: 30px;
+  position:static;
+  border-top: 8px solid #4aaaa5;
+  font-size: 12px;
+  width: 100%;
+  height: 140px;
+  background-color: #666;
+}
+footer p { 
+  color:white;
+  text-align: center;
+  padding:20px;
+}
+
+
+section{
+margin:20 20 20 20px;
+padding:100px;
+}
+.container{
+
+  padding:20px;
+
+}
+h1,h2,h3{
+font-family: 'Permanent Marker', cursive;
+color:#4aaaa5;
+}
+
+form{
+  width:450px;
+  height:300;
+  padding:30px;
+  border-color:#4aaaa5;
+  border-style:outset;
+  border-width:10px;
+
+}
