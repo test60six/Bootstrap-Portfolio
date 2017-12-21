@@ -21,11 +21,12 @@ body {
 }
 
 .connect{
+  float:right;
   padding-right:200px;
   padding:20px;
   width:600px;
   margin-left:20px;
-  
+
 
 
   /*changes the images, I liked it how it was*/
@@ -42,7 +43,7 @@ body {
   max-width:100%;
   padding:30px;
   background:#4aaaa5;
-  
+
 
 }
 
@@ -60,7 +61,7 @@ color:#666;
 
  background-color:#4aaaa5;
  padding-right: 50%;
-  
+
 }
 
 
@@ -74,7 +75,7 @@ color:#666;
   height: 140px;
   background-color: #666;
 }
-footer p { 
+footer p {
   color:white;
   text-align: center;
   padding:20px;
@@ -102,7 +103,7 @@ form{
   border-color:#4aaaa5;
   border-style:outset;
   border-width:10px;
-  
+
 
 }
 ul{
@@ -110,7 +111,7 @@ ul{
   height:px;
   background-color: #4aaaa5;
   padding:20px;
-  
+
 }
 
 #message{
